@@ -104,9 +104,7 @@ Dokumentasi lengkap dan folder terstruktur untuk pengembangan lanjutan
 ---
 
 ## 📖 Referensi
-YOLOv11: https://github.com/WongKinYiu/yolov11
 
-Roboflow: https://roboflow.com
 
 ---
 
